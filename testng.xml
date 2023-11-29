@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="E_Commerce.Ecommerce_tc2"/>
+      <class name="E_Commerce.Ecommerce_tc1"/>
+      <class name="basics.AppiumBasics"/>
+      <class name="E_Commerce.Ecommerce_tc3"/>
+      <class name="basics.LongPressGesture"/>
+      <class name="basics.DragAndDrop"/>
+      <class name="basics.SwipeDemo"/>
+      <class name="basics.Assignment"/>
+      <class name="basics.MiscellaneousTest"/>
+      <class name="mobileBrowserTest.BrowserTest"/>
+      <class name="basics.ScrollDemo"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

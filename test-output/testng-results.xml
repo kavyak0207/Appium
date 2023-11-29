@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-28T12:50:39 IST" name="Default suite" finished-at="2023-11-28T12:51:44 IST" duration-ms="65260">
+    <groups>
+    </groups>
+    <test started-at="2023-11-28T12:50:39 IST" name="Default test" finished-at="2023-11-28T12:51:44 IST" duration-ms="65260">
+      <class name="E_Commerce.Ecommerce_tc1">
+        <test-method is-config="true" signature="configureAppium()[pri:0, instance:E_Commerce.Ecommerce_tc1@6aeb35e6]" started-at="2023-11-28T12:50:39 IST" name="configureAppium" finished-at="2023-11-28T12:51:05 IST" duration-ms="25997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureAppium -->
+        <test-method signature="fillForm()[pri:0, instance:E_Commerce.Ecommerce_tc1@6aeb35e6]" started-at="2023-11-28T12:51:05 IST" name="fillForm" finished-at="2023-11-28T12:51:44 IST" duration-ms="38556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:E_Commerce.Ecommerce_tc1@6aeb35e6]" started-at="2023-11-28T12:51:44 IST" name="teardown" finished-at="2023-11-28T12:51:44 IST" duration-ms="655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- E_Commerce.Ecommerce_tc1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
